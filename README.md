@@ -72,7 +72,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 
 
-### 📈: GitHub Stats :
+### 📈: GitHub Stats1 :
 
 : ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjad-yousaf&show_icons=true&theme=radical)
 
