@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="ht
 
 - 💻 Currently, I'm working as a Backend Developer (Node JS)
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sajjad-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedIn-Url)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Sajjad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-islam-44123a124)
 
 ---
 
